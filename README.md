@@ -1,1 +1,1 @@
-# My project
+Snake game
